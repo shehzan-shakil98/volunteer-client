@@ -1,0 +1,10 @@
+.nav a{
+    font-size: 20px;
+    margin-left: 30px;
+}
+.nav a:hover{
+    font-size: 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+    background-color: cyan;
+}

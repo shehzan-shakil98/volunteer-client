@@ -1,0 +1,14 @@
+input[type="text"]{
+    height:50px;
+    width: 400px;
+    border: 1px solid gray;
+    outline: none;
+}
+input[type="submit"]{
+    height:50px;
+    width: 100px;
+    border: none;
+}
+.form{
+    margin: 50px 0px;
+}
